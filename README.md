@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-### Hello I'm Hyemi, I'm a UIUX designer who works to shape thoughtful products and experiences.
-
-
-### Skills ⚡️
-<img src="https://img.shields.io/badge/-Figma-#ffffff?style=flat&logo=Figma">
-
-
-
 
 <!--
 **Hyemi1213/Hyemi1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
