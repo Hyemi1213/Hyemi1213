@@ -1,11 +1,12 @@
 ### Hi there 👋
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3kuviqltvjd0xu10zi6so4afj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+
 
 <!--
 **Hyemi1213/Hyemi1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
