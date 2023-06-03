@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<div style="width:3.3rem; height:auto;">
+<div style="width:2rem; height:auto;">
 
 ![rocman](https://github.com/Hyemi1213/Hyemi1213/assets/78643416/d5774b1f-3872-4fd8-b16b-43b40c9de8ab)
 
