@@ -1,11 +1,16 @@
-### Hi there 안녕하세요 👋
+<br>
 
+<div align="center">
 
+![resume Badge](https://img.shields.io/badge/-%E2%99%A5%EF%B8%8E%20RESUME-ff69b4?style=flat-square) [![Gmail Badge](https://img.shields.io/badge/e.hem.e1213@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:e.hem.e1213@gmail.com)](mailto:e.hem.e1213@gmail.com)
+<br>
+<br>
 
-<hr />
+<iframe src="https://giphy.com/embed/TRmRoNDx4nHry" width="40" height="40" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> <a style="font-size:0.4rem;" href="https://giphy.com/stickers/nes-TRmRoNDx4nHry">  </a>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3kuviqltvjd0xu10zi6so4afj&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+</div>
 
 <!--
 **Hyemi1213/Hyemi1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
