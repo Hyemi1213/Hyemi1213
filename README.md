@@ -5,8 +5,8 @@
 ![resume Badge](https://img.shields.io/badge/-%E2%99%A5%EF%B8%8E%20RESUME-ff69b4?style=flat-square) [![Gmail Badge](https://img.shields.io/badge/e.hem.e1213@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:e.hem.e1213@gmail.com)](mailto:e.hem.e1213@gmail.com)
 <br>
 <br>
-
-<div style="width:2rem; height:auto;">
+<br>
+<div style="width:0.9rem; height:auto;">
 
 ![rocman](https://github.com/Hyemi1213/Hyemi1213/assets/78643416/d5774b1f-3872-4fd8-b16b-43b40c9de8ab)
 
